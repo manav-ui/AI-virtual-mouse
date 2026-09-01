@@ -1,4 +1,4 @@
-# AI-virtual-mousedd
+# AI-virtual-mouse
 import cv2
 import mediapipe as mp
 import pyautogui
